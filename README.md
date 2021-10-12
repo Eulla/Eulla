@@ -1,8 +1,6 @@
-# Olá, Sou a Eulla Rennia! :D
+## Olá, Eu sou a Eulla Rennia! :D
 
+💻 Estudo Analise e Desenvolvimento de Sistemas
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eullarennia/)](https://www.linkedin.com/in/eullarennia/)
+🌟 Pronomes: ela/dela
 
-
-### Sobre mim:
-Sou estudante de Analise e Desenvolvimento de Sistemas.
