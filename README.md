@@ -5,5 +5,4 @@
 
 
 ### Sobre mim:
-Sou estudante de Analise e Desenvolvimento de Sistemas, meu foco é Front-End mas sou extremamente curiosa. Espero que essa rede possa contribuir com os projetos de vocês.
-
+Sou estudante de Analise e Desenvolvimento de Sistemas.
